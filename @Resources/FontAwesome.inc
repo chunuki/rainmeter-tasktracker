@@ -1,0 +1,11 @@
+[Variables]
+fa-refresh=xf021
+fa-check-sq=xf046
+fa-sq=xf096
+fa-undo=xf0e2
+fa-plus-sq=xf0fe
+fa-minus-sq=xf146
+fa-arrow-left=xf060
+fa-arrow-right=xf061
+fa-file=xf15b
+fa-chevron-circle-up=xf139
