@@ -1,5 +1,3 @@
-# I'm gay and I like fat men
-
 ## 5 BUTTONS:	REFRESH, RESET, ADD TASK, TASK FILE, AUTO SORT
 - REFRESH:		For errors. Use if tasks did not sort properly.
 - RESET:		Removes non-recurring completed tasks.
@@ -29,4 +27,5 @@ I'm kind of trash so there's no functionality to add dates and tasks for future 
 
 
 Also,
+
 
